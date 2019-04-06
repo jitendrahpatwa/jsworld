@@ -1,0 +1,17 @@
+{
+  "name": "jsworld",
+  "version": "1.0.1",
+  "description": "Worlds country details in npm package using restcountries API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Country",
+    "CountryJS",
+    "WorldJS"
+  ],
+  "author": "JP",
+  "license": "ISC"
+}
